@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-LINK-AQUI/](https://www.linkedin.com/in/gustavodiasvicentin/)">
+  <a href="https://www.linkedin.com/in/gustavodiasvicentin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gusvic2501@gamil.com">
+  <a href="mailto:gusvic2501@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -26,7 +26,7 @@ Sou um profissional em formação que atua entre **Data Analytics** e **Desenvol
 - 🐳 **Docker e ambientes containerizados**
 - 🔌 **Integrações e desenvolvimento distribuído**
 
-Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de dados** e **Engenharia de Software**.
+Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de Dados** e **Engenharia de Software**.
 
 ---
 
@@ -58,19 +58,17 @@ Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de dados** e **
 ## 🧩 Projetos em Destaque
 
 ### 🔹 **Sistema Distribuído de Mensagens (5 partes + Go Listener)**
-> ZeroMQ • Docker • Python • Node.js • Go • Replicação • Clocks • Arch Design  
-📌 *Trabalho avançado de Sistemas Distribuídos*
+> ZeroMQ • Docker • Python • Node.js • Go • Replicação • Clocks • Arquitetura distribuída  
+📌 *Trabalho avançado da disciplina de Sistemas Distribuídos.*
 
 ### 🔹 **BancoFEI — Sistema bancário para estudos**
 > Python • SQL • APIs • CRUD • Segurança
 
 ### 🔹 **Projeto Robótica**
-> Automação • Detecção/busca • Inteligência Artificial
+> Automação • Inteligência Artificial • Sensores
 
 ### 🔹 **Sidrica Essências (E-commerce artesanal)**
-> HTML • CSS • JS • UI/UX
-
-*(Posso montar cartões com imagens se quiser)*
+> HTML • CSS • JS • Design responsivo • UI/UX
 
 ---
 
@@ -84,6 +82,7 @@ Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de dados** e **
 ---
 
 ## 🎯 Objetivos Atuais
+
 - Aprimorar portfólio profissional voltado para **Data Analytics + Software**
 - Criar projetos open-source para consolidação técnica
 - Aperfeiçoar modelagem de dados e engenharia
@@ -92,8 +91,9 @@ Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de dados** e **
 ---
 
 ## 🤝 Conecte-se comigo!
+
 <p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-LINK-AQUI/](https://www.linkedin.com/in/gustavodiasvicentin/)">
+  <a href="https://www.linkedin.com/in/gustavodiasvicentin/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
