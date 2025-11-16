@@ -93,7 +93,7 @@ Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de dados** e **
 
 ## 🤝 Conecte-se comigo!
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/">
+  <a href="[https://www.linkedin.com/in/SEU-LINK-AQUI/](https://www.linkedin.com/in/gustavodiasvicentin/)">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
