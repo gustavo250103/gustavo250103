@@ -74,28 +74,6 @@ Atualmente estudo **IA**, **Engenharia de Software**, **Sistemas Distribuídos**
 
 ---
 
-## 🗂️ Portfólio Visual
-
-<p align="center">
-  <a href="https://github.com/gustavo250103/Projeto-Sistemas-Distribuidos">
-    <img src="https://i.imgur.com/XO9ZrQK.png" width="45%" />
-  </a>
-  <a href="https://github.com/gustavo250103/BancoFEI">
-    <img src="https://i.imgur.com/1o3Zmfn.png" width="45%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gustavo250103/ProjetoRobotica">
-    <img src="https://i.imgur.com/9V4s0jQ.png" width="45%" />
-  </a>
-  <a href="https://github.com/gustavo250103/sidricaessencias">
-    <img src="https://i.imgur.com/QWQ6VQL.png" width="45%" />
-  </a>
-</p>
-
----
-
 ## 🎓 Certificações & Estudos
 
 - 📘 **Microsoft – Power BI Data Analyst (PL-300)** *(em andamento)*
