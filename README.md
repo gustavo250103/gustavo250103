@@ -1,15 +1,12 @@
 <h1 align="center">👋 Olá, eu sou <strong>Gustavo Dias Vicentin</strong></h1>
 
 <p align="center">
-  <b>Data Analytics Enthusiast • Software Developer (Python & Go) • Python Lover</b>
+  <b>Data Analytics Enthusiast • Software Developer (Python & Go) • Python Enthusiat </b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavodiasvicentin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gusvic2501@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -81,19 +78,19 @@ Atualmente estudo **IA**, **Engenharia de Software**, **Sistemas Distribuídos**
 
 <p align="center">
   <a href="https://github.com/gustavo250103/Projeto-Sistemas-Distribuidos">
-    <img src="https://via.placeholder.com/300x160.png?text=Sistema+Distribuido" width="45%" />
+    <img src="https://i.imgur.com/XO9ZrQK.png" width="45%" />
   </a>
   <a href="https://github.com/gustavo250103/BancoFEI">
-    <img src="https://via.placeholder.com/300x160.png?text=BancoFEI" width="45%" />
+    <img src="https://i.imgur.com/1o3Zmfn.png" width="45%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gustavo250103/ProjetoRobotica">
-    <img src="https://via.placeholder.com/300x160.png?text=Projeto+Robotica" width="45%" />
+    <img src="https://i.imgur.com/9V4s0jQ.png" width="45%" />
   </a>
   <a href="https://github.com/gustavo250103/sidricaessencias">
-    <img src="https://via.placeholder.com/300x160.png?text=Sidrica+Essencias" width="45%" />
+    <img src="https://i.imgur.com/QWQ6VQL.png" width="45%" />
   </a>
 </p>
 
