@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou Gustavo Dias Vicentin</h1>
+<h1 align="center">👋 Olá, eu sou <strong>Gustavo Dias Vicentin</strong></h1>
 
 <p align="center">
-  <b>Data Analytics • Software Developer • Python Enthusiast</b>  
+  <b>Data Analytics Enthusiast • Software Developer (Python & Go) • Python Lover</b>
 </p>
 
 <p align="center">
@@ -17,58 +17,127 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional em formação que atua entre **Data Analytics** e **Desenvolvimento de Software**, com experiência em:
+Sou apaixonado por **Data Analytics**, atuando ativamente com exploração, modelagem e visualização de dados.  
+Ao mesmo tempo, estou me desenvolvendo como **Software Developer**, principalmente com **Python** e **Go**, criando soluções eficientes, escaláveis e modernas.
 
-- 📊 **Análise e modelagem de dados**
-- 🐍 **Python aplicado a automações, APIs e processamento**
-- 🧠 **Machine Learning e estatística**
-- 🧱 **Desenvolvimento backend e microserviços**
-- 🐳 **Docker e ambientes containerizados**
-- 🔌 **Integrações e desenvolvimento distribuído**
+Minhas áreas favoritas:
 
-Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de Dados** e **Engenharia de Software**.
+- 📊 **Data Analytics** — Dashboards, insights acionáveis, modelagem e storytelling de dados  
+- 🐍 **Python Development** — Automação, APIs, processamento e pipelines  
+- 🧠 **Inteligência Artificial** — Estudo contínuo para me tornar um especialista na área  
+- 🧱 **Arquitetura & Sistemas Distribuídos** — Experiência com ZeroMQ, replicação e clocks  
+- 🐳 **DevOps & Containers** — Deploy, versionamento e ambientes reprodutíveis  
+
+Atualmente estudo **IA**, **Engenharia de Software**, **Sistemas Distribuídos**, **Qlik Sense / Power BI** e **Go**.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### **Linguagens**
+### 📌 **Linguagens**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-### **Data & Analytics**
+### 📌 **Data & Analytics**
 <p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/QlikSense-009845?style=flat&logo=qlik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
-### **Ferramentas e DevOps**
+### 📌 **DevOps, Cloud & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ZeroMQ-F00?style=flat&logo=zeromq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 ## 🧩 Projetos em Destaque
 
-### 🔹 **Sistema Distribuído de Mensagens (5 partes + Go Listener)**
-> ZeroMQ • Docker • Python • Node.js • Go • Replicação • Clocks • Arquitetura distribuída  
-📌 *Trabalho avançado da disciplina de Sistemas Distribuídos.*
+### 🔹 **Sistema Distribuído de Mensagens (5 partes + Listener em Go)**
+> ZeroMQ • Docker • Python • Node.js • Go • Replicação • Clocks Lógicos • Arquitetura distribuída
 
 ### 🔹 **BancoFEI — Sistema bancário para estudos**
-> Python • SQL • APIs • CRUD • Segurança
+> Python • SQL • APIs • CRUD • Segurança e persistência
 
 ### 🔹 **Projeto Robótica**
-> Automação • Inteligência Artificial • Sensores
+> Automação, leitura de sensores, controle e IA aplicada
 
-### 🔹 **Sidrica Essências (E-commerce artesanal)**
-> HTML • CSS • JS • Design responsivo • UI/UX
+### 🔹 **Sidrica Essências — E-commerce Artesanal**
+> HTML • CSS • JS • Layout Responsivo • UI/UX
+
+---
+
+## 🗂️ Portfólio Visual
+
+<p align="center">
+  <a href="https://github.com/gustavo250103/Projeto-Sistemas-Distribuidos">
+    <img src="https://via.placeholder.com/300x160.png?text=Sistema+Distribuido" width="45%" />
+  </a>
+  <a href="https://github.com/gustavo250103/BancoFEI">
+    <img src="https://via.placeholder.com/300x160.png?text=BancoFEI" width="45%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gustavo250103/ProjetoRobotica">
+    <img src="https://via.placeholder.com/300x160.png?text=Projeto+Robotica" width="45%" />
+  </a>
+  <a href="https://github.com/gustavo250103/sidricaessencias">
+    <img src="https://via.placeholder.com/300x160.png?text=Sidrica+Essencias" width="45%" />
+  </a>
+</p>
+
+---
+
+## 🎓 Certificações & Estudos
+
+- 📘 **Microsoft – Power BI Data Analyst (PL-300)** *(em andamento)*
+- 💹 **Qlik Sense Data Analyst** *(em evolução)*
+- 🤖 **Machine Learning Essentials – Kaggle**
+- 🐍 **Python for Everybody – University of Michigan**
+- 📊 **Google Data Analytics**
+- 🧠 **Inteligência Artificial – DeepLearning.AI**
+- 🔌 **ZeroMQ Distributed Systems – Hands-on**
+
+---
+
+## 💼 Experiências & Atuação
+
+### 🔹 **Data Analytics**
+- Dashboards profissionais (Power BI & Qlik Sense)
+- ETL, tratamento, modelagem e visualização de dados
+- Extração via APIs e automações Python
+
+### 🔹 **Desenvolvimento de Software**
+- Backend com Python e Go  
+- Arquiteturas distribuídas (ZeroMQ, PUB/SUB, REQ/REP)  
+- Sistemas Dockerizados, bots e microserviços  
+- Estruturas avançadas: clocks, replicação, coordenação  
+
+### 🔹 **DevOps & Infra**
+- Docker & Docker Compose  
+- GitHub Actions (CI/CD)  
+- Linux server environments  
+- Versionamento (Git Flow, PRs, merges, branches)  
+- Ambientes reprodutíveis para aplicações distribuídas  
+
+---
+
+## 📊 Contribuições Recentes
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo250103&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -83,10 +152,11 @@ Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de Dados** e **
 
 ## 🎯 Objetivos Atuais
 
-- Aprimorar portfólio profissional voltado para **Data Analytics + Software**
-- Criar projetos open-source para consolidação técnica
-- Aperfeiçoar modelagem de dados e engenharia
-- Desenvolver APIs e arquiteturas distribuídas cada vez mais robustas
+- Evoluir tecnicamente para uma atuação sólida em **Data Analytics + Engenharia de Software**
+- Aprofundar conhecimentos em **Inteligência Artificial**, com foco em aplicações práticas  
+  *(buscando, com consistência, me tornar altamente competente nessa área)*  
+- Criar projetos open-source que consolidem minhas habilidades  
+- Aprimorar domínio de **Go**, **Python**, **DevOps** e **Arquiteturas Distribuídas**  
 
 ---
 
@@ -100,4 +170,4 @@ Atualmente estudo **Sistemas Distribuídos**, **IA**, **Análise de Dados** e **
 
 ---
 
-> ⭐ *Sinta-se à vontade para explorar meus repositórios ou entrar em contato para projetos, estudos ou colaborações!*
+> ⭐ *Sinta-se à vontade para explorar meus repositórios ou falar comigo para projetos, estudos ou colaborações!*
